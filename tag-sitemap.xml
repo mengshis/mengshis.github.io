@@ -2,21 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://yoursite-url/tags/Hexo/</loc>
+        <loc>https://mengshis.github.io/tags/Hexo/</loc>
         <lastmod>2020-02-01T13:39:52.504Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yoursite-url/tags/Blog/</loc>
+        <loc>https://mengshis.github.io/tags/Blog/</loc>
         <lastmod>2020-02-01T13:39:52.504Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://yoursite-url/tags/webpack/</loc>
+        <loc>https://mengshis.github.io/tags/webpack/</loc>
         <lastmod>2020-02-01T13:44:11.761Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
